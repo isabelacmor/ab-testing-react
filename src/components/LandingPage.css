@@ -1,0 +1,35 @@
+.mainComponent {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.description {
+    max-width: 80%;
+    margin-bottom: 50px;
+}
+
+.callToAction {
+    max-width: 200px;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+.callToAction.blue {
+    background-color: rgb(44, 44, 114);
+}
+
+.callToAction.green {
+    background-color: rgb(32, 148, 32);
+}

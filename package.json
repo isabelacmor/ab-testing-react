@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@marvelapp/react-ab-test": "^2.1.2",
+    "create-react-class": "^15.6.3",
+    "json-loader": "^0.5.7",
+    "mixpanel": "^0.10.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
