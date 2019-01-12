@@ -1,9 +1,9 @@
 # A/B Testing with React
+Video: https://www.youtube.com/watch?v=FsKlL8EE9pQ&t=1455s
+Slides: https://www.slideshare.net/IsabelaMoreira21/ab-testing-with-react
 
 ## Intro
 Imagine this: You're working on this awesome app and you're almost ready to ship. You're showing off the app one final time before launch and someone asks "Why don't we make this button blue instead of green? I think more users will click on it!". Hmm... if only there was a way to scientifically determine that green is the superior color for this design...
-
--- Enter A/B testing --
 
 ## Why A/B testing?
 - The biggest problem with design is that it's very subjective. Sure, there's guidelines and "proven" ways to organize and present your data, but there's rarely methods set in stone for the little details, like "should this button be green or blue? should we use this icon or that icon?". 
